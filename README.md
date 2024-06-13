@@ -1,0 +1,2 @@
+# myideas
+my views
